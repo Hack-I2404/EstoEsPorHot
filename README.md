@@ -1,2 +1,2 @@
 # EstoEsPorHot
-Es una web básica sin ningún tipo de código real que junto a un grabify link sirve para alertar a los que han entrado que es una trampa.
+Ahora mismo has sido hackead@. Esto te lo mereces por ser un tanto indecente.
